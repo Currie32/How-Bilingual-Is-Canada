@@ -45,7 +45,7 @@ The colours that were chosen are meant to be rather neutral and easy on the eyes
 Feedback
 
 
-1. CtrlAltDel, from Udacity forum:
+1.CtrlAltDel, from Udacity forum:
 I've lived most of my life in US states that border Canada and I've always wondered abut the distribution of the French speaking population, so this visualization is fascinating to me. This is definitely explanatory, with a great opening narrative. It is pretty clear that English is the most widely spoken language and that the French speaking population is primarily concentrated in Quebec. Here are some things to consider:
 	•	Since the focus is on the distribution of the French speaking population it might make sense to use a horizontal bar graph where the y-axis is ordered by % French.
 	•	The populations on the map are a little hard to see, because they are small. It might help to rearrange the graphic so that the map is larger overall. The map and the bar plot don't need to be side by side, stacking them may help give space to increase the map size.
@@ -56,7 +56,7 @@ How I incorporated this feedback:
 -I added interactivity to the graph, where people could sort by languages and see the population as well as the percentage of the population that speaks each language.
 -The map already had the ability for zooming and dragging. I added ‘tips’ at the bottom of the map and graph so that people would know they could use the map just like Google Maps, hover over cities and bars on the graph to reveal more information.
 
-2. Matt, a friend I showed the data vis to:
+2.Matt, a friend I showed the data vis to:
 -“Is your legend centred?”
 -He didn’t realize that he could use the map like Google Maps.
 
@@ -64,7 +64,7 @@ How I incorporated this feedback:
 -I centred the legend.
 -Another reason why I added the tips below the map and graph.
 
-3. Dad, I showed the data vis to him:
+3.Dad, I showed the data vis to him:
 -Squinted heavily at times.
 -“It would be easier to read those numbers (from the map’s pop-ups) if they had commas.”
 
@@ -72,7 +72,7 @@ How I incorporated this feedback:
 -I made most the font bigger.
 -I added commas to numbers for easier readability.
 
-4. Haylea, a friend I showed the data vis to:
+4.Haylea, a friend I showed the data vis to:
 -“Why are the provinces in that order (on the graph)?”
 -“Maybe you should add some colour to the graph pop-up.”
 
