@@ -9,6 +9,9 @@ Design
 Map: 
 A map was always essential to this data visualization. I wanted viewers to be able to see and understand where and how many Canadians speak English, French, or neither. Having a map that provided provincial and territorial boundaries was also important, as it helps viewers to better understand Canada’s geography. The size of the dots (cities) reflect the population, but the scale is a square root function, which makes it easier to see smaller cities and the larger ones do not become too big. Opacity was lowered to 0.7 to help viewers see clusters of cities, such as near Toronto and Vancouver. Light blue was chosen for the colour of the map as it is easy on the eyes, and red was chosen for the dots as it provides good contrast. Functionality such as zooming and dragging was incorporated to help viewers see areas of greater density, such as southern Ontario.
 
+Third Iteration:
+To help viewers better understand the data visualizations if they do not know Canadian geography well, I added a pop-up that tells viewers which province they are hovering over. To make the city circles more distinguishable, I added a dark red border on them. 
+
 Map Menu:
 I wanted there to be a way for viewers to change the information on the map. I thought this would provide some interesting interactivity. Originally, I had a button of ‘Either English or French,’ but I removed it as I thought it did not provide a great deal of new information. I chose the green hues, as they mix reasonably well with the map and the rest of the colours chosen. The darker green was created to remind viewers which button they had chosen, and the medium green indicates which button the user is hovering over, plus I like it when buttons do that.
 
