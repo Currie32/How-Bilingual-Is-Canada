@@ -4,6 +4,8 @@ Summary
 
 This data visualization should help viewers understand where and how may Canadians speak English, French, or neither of the two official languages of Canada. Using the map and adjacent menu, viewers can understand the languages spoken in each city (hover over each city to see a numerical breakdown of each type of speaker). Using the graph and its menu and legend, viewers can see how provinces and territories differ from each other in terms of languages (hover over each bar to see the percentage or population values).
 
+To view the visualization: https://currie32.github.io/canada-data-vis/index.html
+
 Design
 
 Map: 
